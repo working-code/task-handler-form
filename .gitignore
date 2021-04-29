@@ -1,0 +1,7 @@
+docker
+Database.mwb
+Database.mwb.bak
+.idea/
+src/config.php
+database.sql
+docker-compose.yml
